@@ -1,0 +1,409 @@
+{
+  "posts": [
+    {
+      "id": "100",
+      "artist": "NOWZ",
+      "slug": "nowz-1st-fan-meeting-tokyo",
+      "first_date": "2026-11-28",
+      "url": "https://www.kpopliveinjapan.com/nowz-1st-fan-meeting-tokyo/"
+    },
+    {
+      "id": "102",
+      "artist": "&TEAM",
+      "slug": "andteam-mark-on-you-japan",
+      "first_date": "2026-11-18",
+      "url": "https://www.kpopliveinjapan.com/andteam-mark-on-you-japan/"
+    },
+    {
+      "id": "104",
+      "artist": "NEXZ",
+      "slug": "nexz-saucin-the-world-japan-2027",
+      "first_date": "2027-01-16",
+      "url": "https://www.kpopliveinjapan.com/nexz-saucin-the-world-japan-2027/"
+    },
+    {
+      "id": "106",
+      "artist": "Stray Kids",
+      "slug": "stray-kids-run-it-japan-stadium-2027",
+      "first_date": "2027-04-24",
+      "url": "https://www.kpopliveinjapan.com/stray-kids-run-it-japan-stadium-2027/"
+    },
+    {
+      "id": "108",
+      "artist": "OH MY GIRL",
+      "slug": "oh-my-girl-fanmeeting-2026-toyosu",
+      "first_date": "2026-12-06",
+      "url": "https://www.kpopliveinjapan.com/oh-my-girl-fanmeeting-2026-toyosu/"
+    },
+    {
+      "id": "110",
+      "artist": "MONSTA X",
+      "slug": "monstax-the-x-nexus-encore-japan-2026",
+      "first_date": "2026-12-08",
+      "url": "https://www.kpopliveinjapan.com/monstax-the-x-nexus-encore-japan-2026/"
+    },
+    {
+      "id": "112",
+      "artist": "2NE1 & TEN",
+      "slug": "2ne1-ten-special-live-2026",
+      "first_date": "2026-12-08",
+      "url": "https://www.kpopliveinjapan.com/2ne1-ten-special-live-2026/"
+    },
+    {
+      "id": "114",
+      "artist": "NMIXX",
+      "slug": "nmixx-showcase-2026-aichi",
+      "first_date": "2026-12-12",
+      "url": "https://www.kpopliveinjapan.com/nmixx-showcase-2026-aichi/"
+    },
+    {
+      "id": "117",
+      "artist": "ATEEZ",
+      "slug": "ateez-zero-to-all-japan-2027",
+      "first_date": "2027-02-02",
+      "url": "https://www.kpopliveinjapan.com/ateez-zero-to-all-japan-2027/"
+    },
+    {
+      "id": "119",
+      "artist": "FTISLAND",
+      "slug": "ftisland-christmas-mini-concert-2026",
+      "first_date": "2026-12-24",
+      "url": "https://www.kpopliveinjapan.com/ftisland-christmas-mini-concert-2026/"
+    },
+    {
+      "id": "121",
+      "artist": "LIGHTSUM",
+      "slug": "lightsum-reidol-showcase-2026",
+      "first_date": "2026-12-28",
+      "url": "https://www.kpopliveinjapan.com/lightsum-reidol-showcase-2026/"
+    },
+    {
+      "id": "123",
+      "artist": "Hi-Fi Un!corn",
+      "slug": "hifi-unicorn-telescope-tokyo-2026",
+      "first_date": "2026-12-30",
+      "url": "https://www.kpopliveinjapan.com/hifi-unicorn-telescope-tokyo-2026/"
+    },
+    {
+      "id": "125",
+      "artist": "WayV",
+      "slug": "wayv-born-this-way-japan-2027",
+      "first_date": "2027-01-30",
+      "url": "https://www.kpopliveinjapan.com/wayv-born-this-way-japan-2027/"
+    },
+    {
+      "id": "127",
+      "artist": "ONEUS",
+      "slug": "oneus-full-moon-tokyo-2027",
+      "first_date": "2027-01-16",
+      "url": "https://www.kpopliveinjapan.com/oneus-full-moon-tokyo-2027/"
+    },
+    {
+      "id": "129",
+      "artist": "NCT WISH",
+      "slug": "nctwish-into-the-wish-japan-2027",
+      "first_date": "2027-02-26",
+      "url": "https://www.kpopliveinjapan.com/nctwish-into-the-wish-japan-2027/"
+    },
+    {
+      "id": "131",
+      "artist": "izna",
+      "slug": "izna-who-dat-girl-japan-2027",
+      "first_date": "2027-03-12",
+      "url": "https://www.kpopliveinjapan.com/izna-who-dat-girl-japan-2027/"
+    },
+    {
+      "id": "192",
+      "artist": "MUSIC BANK GLOBAL FESTIVAL",
+      "slug": "musicbank-global-festival-2026",
+      "first_date": "2026-12-12",
+      "url": "https://www.kpopliveinjapan.com/musicbank-global-festival-2026/"
+    },
+    {
+      "id": "70",
+      "artist": "ILLIT",
+      "slug": "illit",
+      "first_date": "2026-12-23",
+      "url": "https://www.kpopliveinjapan.com/illit/"
+    },
+    {
+      "id": "76",
+      "artist": "LE SSERAFIM",
+      "slug": "le-sserafim",
+      "first_date": "2026-12-19",
+      "url": "https://www.kpopliveinjapan.com/le-sserafim/"
+    },
+    {
+      "id": "82",
+      "artist": "BIGBANG",
+      "slug": "bigbang-xx-cosmos-japan-2026",
+      "first_date": "2026-11-27",
+      "url": "https://www.kpopliveinjapan.com/bigbang-xx-cosmos-japan-2026/"
+    },
+    {
+      "id": "84",
+      "artist": "ENHYPEN",
+      "slug": "enhypen-blood-saga-japan",
+      "first_date": "2026-12-01",
+      "url": "https://www.kpopliveinjapan.com/enhypen-blood-saga-japan/"
+    },
+    {
+      "id": "86",
+      "artist": "2026 MAMA AWARDS",
+      "slug": "mama-awards-2026-osaka",
+      "first_date": "2026-11-20",
+      "url": "https://www.kpopliveinjapan.com/mama-awards-2026-osaka/"
+    },
+    {
+      "id": "88",
+      "artist": "FNC KINGDOM 2026",
+      "slug": "fnc-kingdom-2026-yokohama",
+      "first_date": "2026-12-12",
+      "url": "https://www.kpopliveinjapan.com/fnc-kingdom-2026-yokohama/"
+    },
+    {
+      "id": "90",
+      "artist": "Hearts2Hearts",
+      "slug": "hearts2hearts-ready-s2u-ariake",
+      "first_date": "2026-11-22",
+      "url": "https://www.kpopliveinjapan.com/hearts2hearts-ready-s2u-ariake/"
+    },
+    {
+      "id": "92",
+      "artist": "TOMORROW X TOGETHER",
+      "slug": "txt-steal-the-wind-japan-2026",
+      "first_date": "2026-12-19",
+      "url": "https://www.kpopliveinjapan.com/txt-steal-the-wind-japan-2026/"
+    },
+    {
+      "id": "96",
+      "artist": "Kep1er",
+      "slug": "kep1er-fancon-2026-tokyo",
+      "first_date": "2026-11-23",
+      "url": "https://www.kpopliveinjapan.com/kep1er-fancon-2026-tokyo/"
+    },
+    {
+      "id": "98",
+      "artist": "CNBLUE",
+      "slug": "cnblue-autumn-tour-2026-full-circle",
+      "first_date": "2026-11-02",
+      "url": "https://www.kpopliveinjapan.com/cnblue-autumn-tour-2026-full-circle/"
+    },
+    {
+      "id": "360",
+      "artist": "BABYMONSTER",
+      "slug": "babymonster",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/babymonster/"
+    },
+    {
+      "id": "363",
+      "artist": "i-dle",
+      "slug": "i-dle",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/i-dle/"
+    },
+    {
+      "id": "368",
+      "artist": "BLACKPINK",
+      "slug": "blackpink",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/blackpink/"
+    },
+    {
+      "id": "371",
+      "artist": "TREASURE",
+      "slug": "treasure",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/treasure/"
+    },
+    {
+      "id": "374",
+      "artist": "ZEROBASEONE",
+      "slug": "zerobaseone",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/zerobaseone/"
+    },
+    {
+      "id": "377",
+      "artist": "AESPA",
+      "slug": "aespa",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/aespa/"
+    },
+    {
+      "id": "380",
+      "artist": "RIIZE",
+      "slug": "riize",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/riize/"
+    },
+    {
+      "id": "383",
+      "artist": "SEVENTEEN",
+      "slug": "seventeen",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/seventeen/"
+    },
+    {
+      "id": "386",
+      "artist": "BTS",
+      "slug": "bts",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/bts/"
+    },
+    {
+      "id": "389",
+      "artist": "EXO",
+      "slug": "exo",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/exo/"
+    },
+    {
+      "id": "392",
+      "artist": "SHINEE",
+      "slug": "shinee",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/shinee/"
+    },
+    {
+      "id": "395",
+      "artist": "TVXQ",
+      "slug": "tvxq",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/tvxq/"
+    },
+    {
+      "id": "398",
+      "artist": "TWICE",
+      "slug": "twice",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/twice/"
+    },
+    {
+      "id": "401",
+      "artist": "ITZY",
+      "slug": "itzy",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/itzy/"
+    },
+    {
+      "id": "404",
+      "artist": "IVE",
+      "slug": "ive",
+      "first_date": "9999-12-31",
+      "url": "https://www.kpopliveinjapan.com/ive/"
+    },
+    {
+      "id": "407",
+      "artist": "JXJ",
+      "slug": "jxj-journey-into-dreaming-japan",
+      "first_date": "2026-11-21",
+      "url": "https://www.kpopliveinjapan.com/jxj-journey-into-dreaming-japan/"
+    },
+    {
+      "id": "447",
+      "artist": "YESUNG",
+      "slug": "yesung-10th-anniversary-tour-japan-2027",
+      "first_date": "2027-02-12",
+      "url": "https://www.kpopliveinjapan.com/yesung-10th-anniversary-tour-japan-2027/",
+      "label": "チケット発売中"
+    },
+    {
+      "id": "449",
+      "artist": "CHANGMIN",
+      "slug": "changmin-second-dining-japan-2027",
+      "first_date": "2027-02-22",
+      "url": "https://www.kpopliveinjapan.com/changmin-second-dining-japan-2027/"
+    },
+    {
+      "id": "451",
+      "artist": "SUPER JUNIOR-83Z",
+      "slug": "superjunior-83z-fancon-1983-osaka",
+      "first_date": "2026-12-22",
+      "url": "https://www.kpopliveinjapan.com/superjunior-83z-fancon-1983-osaka/",
+      "label": "チケット発売中"
+    },
+    {
+      "id": "456",
+      "artist": "JANG WOOYOUNG",
+      "slug": "jang-wooyoung-concert-japan-2026",
+      "first_date": "2026-12-25",
+      "url": "https://www.kpopliveinjapan.com/jang-wooyoung-concert-japan-2026/",
+      "label": "受付終了"
+    },
+    {
+      "id": "458",
+      "artist": "U-KNOW",
+      "slug": "yunho-project26-scene1-japan",
+      "first_date": "2026-11-14",
+      "url": "https://www.kpopliveinjapan.com/yunho-project26-scene1-japan/"
+    },
+    {
+      "id": "508",
+      "artist": "ONEW",
+      "slug": "onew-the-live-japan-2027",
+      "first_date": "2027-01-14",
+      "url": "https://www.kpopliveinjapan.com/onew-the-live-japan-2027/"
+    },
+    {
+      "id": "530",
+      "artist": "YOUNG K",
+      "slug": "youngk-youngest-japan-2027",
+      "first_date": "2027-02-13",
+      "url": "https://www.kpopliveinjapan.com/youngk-youngest-japan-2027/"
+    }
+  ],
+  "cardTitles": {
+    "nowz-1st-fan-meeting-tokyo": "NOWZ 初ファンミーティング",
+    "andteam-mark-on-you-japan": "&TEAM 'Mark on You' ツアー",
+    "nexz-saucin-the-world-japan-2027": "NEXZ SAUCIN' THE WORLD",
+    "stray-kids-run-it-japan-stadium-2027": "Stray Kids RUN IT スタジアム公演",
+    "oh-my-girl-fanmeeting-2026-toyosu": "OH MY GIRL ファンミーティング",
+    "monstax-the-x-nexus-encore-japan-2026": "MONSTA X THE X: NEXUS アンコール",
+    "2ne1-ten-special-live-2026": "2NE1 & TEN スペシャルライブ（合同）",
+    "nmixx-showcase-2026-aichi": "NMIXX 日本デビューショーケース",
+    "ateez-zero-to-all-japan-2027": "ATEEZ ZERO TO ALL",
+    "ftisland-christmas-mini-concert-2026": "FTISLAND クリスマスミニコンサート",
+    "lightsum-reidol-showcase-2026": "LIGHTSUM Re:idol ショーケース",
+    "hifi-unicorn-telescope-tokyo-2026": "Hi-Fi Un!corn TELESCOPE 追加公演",
+    "wayv-born-this-way-japan-2027": "WayV BORN THIS Way",
+    "oneus-full-moon-tokyo-2027": "ONEUS FULL MOON",
+    "nctwish-into-the-wish-japan-2027": "NCT WISH INTO THE WISH",
+    "izna-who-dat-girl-japan-2027": "izna WHO DAT GIRL?",
+    "musicbank-global-festival-2026": "MUSIC BANK GLOBAL FESTIVAL（合同フェス）",
+    "illit": "ILLIT 'PRESS START' アンコール",
+    "le-sserafim": "LE SSERAFIM 'PUREFLOW'",
+    "bigbang-xx-cosmos-japan-2026": "BIGBANG ＜XX: COSMOS＞",
+    "enhypen-blood-saga-japan": "ENHYPEN 'BLOOD SAGA'",
+    "mama-awards-2026-osaka": "2026 MAMA AWARDS",
+    "fnc-kingdom-2026-yokohama": "FNC KINGDOM 2026（合同ライブ）",
+    "hearts2hearts-ready-s2u-ariake": "Hearts2Hearts 初ファンイベント 'READY! S2U'",
+    "txt-steal-the-wind-japan-2026": "TOMORROW X TOGETHER ＜STEAL THE WIND＞",
+    "kep1er-fancon-2026-tokyo": "Kep1er FAN-CON [RSVP]",
+    "cnblue-autumn-tour-2026-full-circle": "CNBLUE AUTUMN TOUR -FULL CIRCLE-",
+    "babymonster": "BABYMONSTER 日本公演情報",
+    "i-dle": "i-dle 日本公演情報",
+    "blackpink": "BLACKPINK 日本公演情報",
+    "treasure": "TREASURE 日本公演情報",
+    "zerobaseone": "ZEROBASEONE 日本公演情報",
+    "aespa": "aespa 日本公演情報",
+    "riize": "RIIZE 日本公演情報",
+    "seventeen": "SEVENTEEN 日本公演情報",
+    "bts": "BTS 日本公演情報",
+    "exo": "EXO 日本公演情報",
+    "shinee": "SHINee 日本公演情報",
+    "tvxq": "東方神起 日本公演情報",
+    "twice": "TWICE 日本公演情報",
+    "itzy": "ITZY 日本公演情報",
+    "ive": "IVE 日本公演情報",
+    "jxj-journey-into-dreaming-japan": "JxJ JOURNEY INTO [DREAMING]",
+    "yesung-10th-anniversary-tour-japan-2027": "YESUNG 10TH ANNIVERSARY TOUR",
+    "changmin-second-dining-japan-2027": "CHANGMIN The Second Dining",
+    "superjunior-83z-fancon-1983-osaka": "SUPER JUNIOR-83z FAN-CON [1983]",
+    "jang-wooyoung-concert-japan-2026": "Jang Wooyoung ソロコンサート",
+    "yunho-project26-scene1-japan": "U-KNOW PROJECT 26: SCENE ♯1 – EDIT",
+    "onew-the-live-japan-2027": "ONEW ［ONEW THE LIVE］",
+    "youngk-youngest-japan-2027": "Young K ソロツアー ＜YOUNGEST＞"
+  }
+}
