@@ -11,4 +11,4 @@ K-POP日本公演ポータル「kpopliveinjapan.com」の運用ナレッジの�
 - `ops/` — 運用メモ（管理者セッションチェックリスト、アフィリエイト準備、カタカナ監査、来日の兆し棚卸し、コード整理計画、速度レポート、AGENTS.md＝作業上の教訓集）
 
 ## Notion
-- 運用ナレッジ（Notion）: （Notionページ作成後にここへリンクを記載）
+- 運用ナレッジ（Notion）: https://app.notion.com/p/41a39e37ecd78149af29f6ab6ea3308a
